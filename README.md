@@ -6,5 +6,5 @@ Recuerden ejecutar ```npm install``` para las librerías
 
 ### Ejemplo:
 ```
-San Nicolas de los Arroyos
+node app -d "San Nicolas de los Arroyos"
 ```
